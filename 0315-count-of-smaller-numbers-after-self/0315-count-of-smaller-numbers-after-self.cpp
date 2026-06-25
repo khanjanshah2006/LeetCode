@@ -1,39 +1,56 @@
 class Solution {
 public:
-    vector<int> tree;
-    int sum(int node, int s, int e, int l, int r) {
-        if(r < s || l > e) {
-            return 0;
+    vector<int> ans;
+    void merge(int l, int mid, int r, vector<pair<int, int>>& arr) {
+        vector<pair<int, int>> temp(r - l + 1);
+        int i = l;
+        int j = mid + 1;
+        int k = 0;
+        int right_count = 0;
+        while (i <= mid && j <= r) {
+            if (arr[i].first <= arr[j].first) {
+                temp[k] = arr[i];
+                ans[arr[i].second] += right_count;
+                i++;
+            } else {
+                temp[k] = arr[j];
+                right_count++;
+                j++;
+            }
+            k++;
         }
-        if(l<=s && r>= e) {
-            return tree[node];
+        while (i <= mid) {
+            temp[k] = arr[i];
+            ans[arr[i].second] += right_count;
+            i++;
+            k++;
         }
-        int mid = s + (e-s)/2;
-        int left = sum(2*node, s, mid, l,r);
-        int right = sum(2*node+1,mid+1,e,l,r);
-        return left + right;
+        while (j <= r) {
+            temp[k] = arr[j];
+            j++;
+            k++;
+        }
+        for (int idx = 0; idx < k; idx++) {
+            arr[l + idx] = temp[idx];
+        }
     }
-    void update(int node, int s, int e, int i, int x) {
-        if(s == e) {
-            tree[node] += x;
+    void mergeSort(int l, int r, vector<pair<int, int>>& arr) {
+        if (l >= r)
             return;
-        }
-        int mid = s + (e-s)/2;
-        if(i <= mid) {
-            update(2*node, s, mid, i,x);
-        }else {
-            update(2*node+1, mid+1,e, i,x);
-        }
-        tree[node] = tree[2*node] + tree[2*node + 1];
+        int mid = l + (r - l) / 2;
+        mergeSort(l, mid, arr);
+        mergeSort(mid + 1, r, arr);
+        merge(l, mid, r, arr);
     }
+
     vector<int> countSmaller(vector<int>& nums) {
-        tree.assign(4*20001 ,0);
         int n = nums.size();
-        vector<int> ans(n);
-        for(int i=n-1; i>= 0; i--) {
-            ans[i] = sum(1,0,20000,0,nums[i]+9999);
-            update(1,0,20000,nums[i]+10000, 1);
+        vector<pair<int, int>> arr(n);
+        for (int i = 0; i < n; i++) {
+            arr[i] = {nums[i], i};
         }
+        ans.assign(n, 0);
+        mergeSort(0, n - 1, arr);
         return ans;
     }
 };
