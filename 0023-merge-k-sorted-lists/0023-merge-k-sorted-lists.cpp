@@ -32,9 +32,12 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.empty()) return nullptr;
         int n = lists.size();
-        for(int i=1; i < n; i++) {
-            lists[i] = merge(lists[i-1], lists[i]);
+        while(n > 1) {
+            for(int i=0; i< n/2; i++) {
+                lists[i] = merge(lists[i], lists[n-i-1]);
+            }
+            n = (n+1)/2;
         }
-        return lists[n-1];
+        return lists[0];
     }
 };
