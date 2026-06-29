@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2276-count-integers-in-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/2276-count-integers-in-intervals) |
 ## Hash Table
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2276-count-integers-in-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/2276-count-integers-in-intervals) |
 ## Queue
 |  |
@@ -188,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
