@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/khanjanshah2006/LeetCode/tree/master/0051-n-queens) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khanjanshah2006/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/khanjanshah2006/LeetCode/tree/master/0605-can-place-flowers) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khanjanshah2006/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/khanjanshah2006/LeetCode/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
