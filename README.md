@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/khanjanshah2006/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2256-minimum-average-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khanjanshah2006/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/khanjanshah2006/LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/khanjanshah2006/LeetCode/tree/master/1922-count-good-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
