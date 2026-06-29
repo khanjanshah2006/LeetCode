@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2256-minimum-average-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2256-minimum-average-difference) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/khanjanshah2006/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/khanjanshah2006/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1706-where-will-the-ball-fall](https://github.com/khanjanshah2006/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2256-minimum-average-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2256-minimum-average-difference) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khanjanshah2006/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
