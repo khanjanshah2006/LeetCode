@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2740-find-the-value-of-the-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 | [2845-count-of-interesting-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khanjanshah2006/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3208-alternating-groups-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3208-alternating-groups-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khanjanshah2006/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/0561-array-partition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2740-find-the-value-of-the-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 ## Design
 |  |
 | ------- |
