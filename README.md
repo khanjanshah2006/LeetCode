@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/khanjanshah2006/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/khanjanshah2006/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2845-count-of-interesting-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/khanjanshah2006/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2845-count-of-interesting-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khanjanshah2006/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/khanjanshah2006/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3208-alternating-groups-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
