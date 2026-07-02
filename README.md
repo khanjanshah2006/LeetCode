@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/khanjanshah2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/khanjanshah2006/LeetCode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/khanjanshah2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khanjanshah2006/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/khanjanshah2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/khanjanshah2006/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/khanjanshah2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0731-my-calendar-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0731-my-calendar-ii) |
