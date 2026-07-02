@@ -34,11 +34,7 @@ public:
         for (int i = n - 1; i >= 0; i--) {
             invfact[i] = (invfact[i + 1] * (i + 1)) % mod;
         }
-        long long ans = 0;
-        for (int x = 0; x <= k; x++) {
-            long long way = (comb(pos, x) * comb(n - 1 - pos, k - x)) % mod;
-            ans = (ans + way) % mod;
-        }
+        long long ans = comb(n-1,k);
         return (ans * 2) % mod;
     }
 };
