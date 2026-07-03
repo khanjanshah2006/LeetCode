@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/khanjanshah2006/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/khanjanshah2006/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/khanjanshah2006/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/khanjanshah2006/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1706-where-will-the-ball-fall](https://github.com/khanjanshah2006/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
