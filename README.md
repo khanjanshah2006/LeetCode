@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0879-profitable-schemes](https://github.com/khanjanshah2006/LeetCode/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1035-uncrossed-lines](https://github.com/khanjanshah2006/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1416-restore-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1416-restore-the-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/khanjanshah2006/LeetCode/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1035-uncrossed-lines](https://github.com/khanjanshah2006/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/khanjanshah2006/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
