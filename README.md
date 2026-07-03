@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
 | [0119-pascals-triangle-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/khanjanshah2006/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
