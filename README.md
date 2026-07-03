@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2140-solving-questions-with-brainpower](https://github.com/khanjanshah2006/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/khanjanshah2006/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2466-count-ways-to-build-good-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/khanjanshah2006/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3620-network-recovery-pathways](https://github.com/khanjanshah2006/LeetCode/tree/master/3620-network-recovery-pathways) |
