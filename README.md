@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1035-uncrossed-lines](https://github.com/khanjanshah2006/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1416-restore-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1416-restore-the-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/khanjanshah2006/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/khanjanshah2006/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/khanjanshah2006/LeetCode/tree/master/0050-powx-n) |
+| [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1922-count-good-numbers](https://github.com/khanjanshah2006/LeetCode/tree/master/1922-count-good-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
