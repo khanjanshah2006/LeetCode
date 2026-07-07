@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/khanjanshah2006/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/khanjanshah2006/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0879-profitable-schemes](https://github.com/khanjanshah2006/LeetCode/tree/master/0879-profitable-schemes) |
+| [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/khanjanshah2006/LeetCode/tree/master/0956-tallest-billboard) |
 | [1027-longest-arithmetic-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/khanjanshah2006/LeetCode/tree/master/0050-powx-n) |
+| [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1922-count-good-numbers](https://github.com/khanjanshah2006/LeetCode/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
@@ -437,6 +439,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1575-count-all-possible-routes](https://github.com/khanjanshah2006/LeetCode/tree/master/1575-count-all-possible-routes) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
