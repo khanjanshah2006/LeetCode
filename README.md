@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/khanjanshah2006/LeetCode/tree/master/0879-profitable-schemes) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0920-number-of-music-playlists](https://github.com/khanjanshah2006/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [0956-tallest-billboard](https://github.com/khanjanshah2006/LeetCode/tree/master/0956-tallest-billboard) |
 | [1027-longest-arithmetic-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/khanjanshah2006/LeetCode/tree/master/1035-uncrossed-lines) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/khanjanshah2006/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/khanjanshah2006/LeetCode/tree/master/0808-soup-servings) |
+| [0920-number-of-music-playlists](https://github.com/khanjanshah2006/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0920-number-of-music-playlists](https://github.com/khanjanshah2006/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/khanjanshah2006/LeetCode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Topological Sort
 |  |
