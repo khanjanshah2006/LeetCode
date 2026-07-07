@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/khanjanshah2006/LeetCode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Recursion
 |  |
