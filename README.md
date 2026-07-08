@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/khanjanshah2006/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/khanjanshah2006/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/khanjanshah2006/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
