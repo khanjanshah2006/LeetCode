@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/khanjanshah2006/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0119-pascals-triangle-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/khanjanshah2006/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
 | [0664-strange-printer](https://github.com/khanjanshah2006/LeetCode/tree/master/0664-strange-printer) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/khanjanshah2006/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/khanjanshah2006/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
