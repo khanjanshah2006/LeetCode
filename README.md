@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/khanjanshah2006/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/khanjanshah2006/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1331-rank-transform-of-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanjanshah2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/khanjanshah2006/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khanjanshah2006/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/0561-array-partition) |
 | [1187-make-array-strictly-increasing](https://github.com/khanjanshah2006/LeetCode/tree/master/1187-make-array-strictly-increasing) |
+| [1331-rank-transform-of-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/khanjanshah2006/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
