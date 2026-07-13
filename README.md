@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/khanjanshah2006/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/khanjanshah2006/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0788-rotated-digits](https://github.com/khanjanshah2006/LeetCode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/khanjanshah2006/LeetCode/tree/master/0808-soup-servings) |
 | [0879-profitable-schemes](https://github.com/khanjanshah2006/LeetCode/tree/master/0879-profitable-schemes) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/khanjanshah2006/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0788-rotated-digits](https://github.com/khanjanshah2006/LeetCode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/khanjanshah2006/LeetCode/tree/master/0808-soup-servings) |
 | [0920-number-of-music-playlists](https://github.com/khanjanshah2006/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
