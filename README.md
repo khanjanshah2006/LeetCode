@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/khanjanshah2006/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0731-my-calendar-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0849-maximize-distance-to-closest-person](https://github.com/khanjanshah2006/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/khanjanshah2006/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0879-profitable-schemes](https://github.com/khanjanshah2006/LeetCode/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
