@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khanjanshah2006/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2845-count-of-interesting-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khanjanshah2006/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1706-where-will-the-ball-fall](https://github.com/khanjanshah2006/LeetCode/tree/master/1706-where-will-the-ball-fall) |
+| [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2740-find-the-value-of-the-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
