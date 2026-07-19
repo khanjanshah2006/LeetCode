@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
 | [0664-strange-printer](https://github.com/khanjanshah2006/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanjanshah2006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1416-restore-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1416-restore-the-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/khanjanshah2006/LeetCode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/khanjanshah2006/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanjanshah2006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -544,9 +546,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanjanshah2006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanjanshah2006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
