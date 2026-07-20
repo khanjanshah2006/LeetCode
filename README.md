@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/khanjanshah2006/LeetCode/tree/master/1187-make-array-strictly-increasing) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/khanjanshah2006/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/khanjanshah2006/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/khanjanshah2006/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/khanjanshah2006/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/khanjanshah2006/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanjanshah2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/khanjanshah2006/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
