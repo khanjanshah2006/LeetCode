@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/khanjanshah2006/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/khanjanshah2006/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khanjanshah2006/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
