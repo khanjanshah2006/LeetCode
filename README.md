@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0212-word-search-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/khanjanshah2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/khanjanshah2006/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
