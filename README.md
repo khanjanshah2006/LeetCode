@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/khanjanshah2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/khanjanshah2006/LeetCode/tree/master/0443-string-compression) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0212-word-search-ii) |
 | [0316-remove-duplicate-letters](https://github.com/khanjanshah2006/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/khanjanshah2006/LeetCode/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/khanjanshah2006/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
