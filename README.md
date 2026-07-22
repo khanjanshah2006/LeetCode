@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1416-restore-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanjanshah2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/khanjanshah2006/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/khanjanshah2006/LeetCode/tree/master/1575-count-all-possible-routes) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanjanshah2006/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanjanshah2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/khanjanshah2006/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/khanjanshah2006/LeetCode/tree/master/1575-count-all-possible-routes) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/khanjanshah2006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khanjanshah2006/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanjanshah2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [3208-alternating-groups-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3208-alternating-groups-ii) |
