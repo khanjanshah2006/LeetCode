@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0119-pascals-triangle-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/khanjanshah2006/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0392-is-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0518-coin-change-ii) |
 | [0664-strange-printer](https://github.com/khanjanshah2006/LeetCode/tree/master/0664-strange-printer) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/khanjanshah2006/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khanjanshah2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/khanjanshah2006/LeetCode/tree/master/0443-string-compression) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0212-word-search-ii) |
 | [0316-remove-duplicate-letters](https://github.com/khanjanshah2006/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/khanjanshah2006/LeetCode/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/khanjanshah2006/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
