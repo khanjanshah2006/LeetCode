@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khanjanshah2006/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/khanjanshah2006/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/khanjanshah2006/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2352-equal-row-and-column-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
 |  |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/khanjanshah2006/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/khanjanshah2006/LeetCode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanjanshah2006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
