@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/khanjanshah2006/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1416-restore-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanjanshah2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0934-shortest-bridge](https://github.com/khanjanshah2006/LeetCode/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/khanjanshah2006/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Counting Sort
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
