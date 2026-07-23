@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/khanjanshah2006/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/khanjanshah2006/LeetCode/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0934-shortest-bridge](https://github.com/khanjanshah2006/LeetCode/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -609,11 +611,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Search Tree
 |  |
