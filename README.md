@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/khanjanshah2006/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/khanjanshah2006/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/khanjanshah2006/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/khanjanshah2006/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/khanjanshah2006/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Probability and Statistics
 |  |
 | ------- |
