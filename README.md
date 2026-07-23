@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/khanjanshah2006/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/khanjanshah2006/LeetCode/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/khanjanshah2006/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/khanjanshah2006/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khanjanshah2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/khanjanshah2006/LeetCode/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khanjanshah2006/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/khanjanshah2006/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/khanjanshah2006/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/khanjanshah2006/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/khanjanshah2006/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/khanjanshah2006/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/khanjanshah2006/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/khanjanshah2006/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/khanjanshah2006/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/khanjanshah2006/LeetCode/tree/master/0399-evaluate-division) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/khanjanshah2006/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/khanjanshah2006/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/khanjanshah2006/LeetCode/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/khanjanshah2006/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/khanjanshah2006/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -580,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/khanjanshah2006/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/khanjanshah2006/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/khanjanshah2006/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/khanjanshah2006/LeetCode/tree/master/0841-keys-and-rooms) |
