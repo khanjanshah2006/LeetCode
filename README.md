@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/khanjanshah2006/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0062-unique-paths](https://github.com/khanjanshah2006/LeetCode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0119-pascals-triangle-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/khanjanshah2006/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/khanjanshah2006/LeetCode/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/khanjanshah2006/LeetCode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/khanjanshah2006/LeetCode/tree/master/0808-soup-servings) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/khanjanshah2006/LeetCode/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/khanjanshah2006/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khanjanshah2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/khanjanshah2006/LeetCode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
