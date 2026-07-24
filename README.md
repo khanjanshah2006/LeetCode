@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khanjanshah2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/khanjanshah2006/LeetCode/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/khanjanshah2006/LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/khanjanshah2006/LeetCode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0119-pascals-triangle-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/khanjanshah2006/LeetCode/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0229-majority-element-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
