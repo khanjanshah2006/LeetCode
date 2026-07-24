@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khanjanshah2006/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khanjanshah2006/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanjanshah2006/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanjanshah2006/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/khanjanshah2006/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2336-smallest-number-in-infinite-set](https://github.com/khanjanshah2006/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanjanshah2006/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/khanjanshah2006/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanjanshah2006/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Linked List
 |  |
 | ------- |
