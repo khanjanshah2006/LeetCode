@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1125-smallest-sufficient-team](https://github.com/khanjanshah2006/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/khanjanshah2006/LeetCode/tree/master/1187-make-array-strictly-increasing) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/khanjanshah2006/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanjanshah2006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1416-restore-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1416-restore-the-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khanjanshah2006/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
