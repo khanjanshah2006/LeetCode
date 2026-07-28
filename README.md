@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/khanjanshah2006/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2740-find-the-value-of-the-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/khanjanshah2006/LeetCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Design
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/khanjanshah2006/LeetCode/tree/master/0561-array-partition) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
 | ------- |
