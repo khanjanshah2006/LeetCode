@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/khanjanshah2006/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/khanjanshah2006/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/khanjanshah2006/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/khanjanshah2006/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0087-scramble-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/khanjanshah2006/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/khanjanshah2006/LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/khanjanshah2006/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/khanjanshah2006/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/khanjanshah2006/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khanjanshah2006/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/khanjanshah2006/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/khanjanshah2006/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khanjanshah2006/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
