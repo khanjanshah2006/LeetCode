@@ -1,65 +1,66 @@
 class Solution {
 public:
-    long long nCr(int n, int r, int k) {
-        r = min(n-r,r);
-        long long result = 1;
+
+    long long nCr(int n, int r, long long limit) {
+        if(r < 0 || r > n) return 0;
+        if(r == 0|| r == n) return 1;
+        r = min(r, n-r);
+        long long ans = 1;
         for(int i = 1; i <= r; i++) {
-            result = result * (n-r+i)/i;
-            if(result >= k) {
-                return k;
+            ans = ans * (n-i+1) / i;
+            if(ans >= limit) return limit;
+        }
+        return ans;
+    }
+
+    long long possibleways(vector<int>& freq, int len, long long limit) {
+        long long ways = 1;
+        int curLen = len;
+        for(int i = 0; i < 26; i++) {
+            if(freq[i] <= 0) continue;
+            ways *= nCr(curLen, freq[i], limit);
+            if(ways >= limit) return limit;
+            curLen -= freq[i];
+        }
+        return ways;
+    }
+    string kthPermutation(string s, int k) {
+        int n = s.length();
+        vector<int> freq(26,0);
+        for(char ch: s) {
+            freq[ch-'a']++;
+        }
+        k--;
+        string result = "";
+        for(int pos = 0; pos < n; pos++) {
+            bool placed = false;
+            for(int c = 0; c < 26; c++) {
+                if(freq[c] == 0) continue;
+                freq[c]--;
+                long long ways = possibleways(freq,n-1-pos, k+1);
+                if(k < ways) {
+                    result.push_back(c + 'a');
+                    placed = true;
+                    break;
+                }else {
+                    k -= ways;
+                    freq[c]++;
+                }
             }
+            if(!placed) return "";
         }
         return result;
     }
     string smallestPalindrome(string s, int k) {
         int n = s.length();
-        char mid = ' ';
-        if(n%2 == 1) {
-            mid = s[n/2];
-        }
-        vector<int> count(26,0);
-        for(int i = 0; i < n; i++) {
-            if(n%2 == 1 && i == n/2) continue;
-            count[s[i]-'a']++;
-        }
-        for(int i = 0; i < 26; i++) {
-            count[i] /= 2;
-        }
-        string halfResult = "";
-        int half = n/2;
-        for(int i = 0; i < half; i++) {
-            bool flag = false;
-            for(int j = 0; j < 26; j++) {
-                if(count[j] > 0) {
-                    count[j] -= 1;
-                    long long ways = 1;
-                    int letters = 0;
-                    for(int c = 0; c < 26; c++) {
-                        letters += count[c];
-                    }
-                    for(int c = 0; c < 26; c++) {
-                        if(count[c] > 0) {
-                            ways *= nCr(letters, count[c],k);
-                            letters -= count[c];
-                        }
-                        if(ways >= k) break;
-                    }
-                    if(ways >= k) {
-                        halfResult.push_back(j + 'a');
-                        flag = true;
-                        break;
-                    }
-                    k -= ways;
-                    count[j] += 1;
-                }
-            }
-            if(flag == false) return "";
-        }
-        string rev = halfResult;
-        reverse(rev.begin(),rev.end());
-        if(mid != ' ') {
-            halfResult.push_back(mid);
-        }
-        return halfResult + rev;
+        string half = s.substr(0, n / 2);
+        string mid = (n % 2 == 1) ? string(1, s[n / 2]) : "";
+        vector<int> freq(26, 0);
+        for (char c : half) freq[c - 'a']++;
+        if (k > possibleways(freq, half.length(), k)) return "";
+        string leftHalf = kthPermutation(half, k);
+        string rightHalf = leftHalf;
+        reverse(rightHalf.begin(), rightHalf.end());
+        return leftHalf + mid + rightHalf;
     }
 };
