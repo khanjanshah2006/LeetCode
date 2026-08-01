@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2140-solving-questions-with-brainpower](https://github.com/khanjanshah2006/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/khanjanshah2006/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khanjanshah2006/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khanjanshah2006/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/khanjanshah2006/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/khanjanshah2006/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/khanjanshah2006/LeetCode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2140-solving-questions-with-brainpower](https://github.com/khanjanshah2006/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/khanjanshah2006/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/khanjanshah2006/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/khanjanshah2006/LeetCode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khanjanshah2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0731-my-calendar-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0732-my-calendar-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2276-count-integers-in-intervals](https://github.com/khanjanshah2006/LeetCode/tree/master/2276-count-integers-in-intervals) |
 | [2336-smallest-number-in-infinite-set](https://github.com/khanjanshah2006/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/khanjanshah2006/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -608,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/khanjanshah2006/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
@@ -715,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/khanjanshah2006/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Game Theory
 |  |
 | ------- |
