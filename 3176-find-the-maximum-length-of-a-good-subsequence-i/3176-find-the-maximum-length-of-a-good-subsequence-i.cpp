@@ -1,27 +1,30 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    int n,K;
-    int solve(int i, int k, vector<int>& nums) {
-        if(dp[i][k] != -1) return dp[i][k];
-        int maxLen = 1;
-        for(int j = i+1; j < n; j++) {
-            if(nums[i] == nums[j]) {
-                maxLen = max(maxLen, 1 + solve(j,k,nums));
-            }else if(k+1 <= K) {
-                maxLen = max(maxLen, 1 + solve(j,k+1,nums));
-            }
-        }
-        return dp[i][k] = maxLen;
-    }
-
     int maximumLength(vector<int>& nums, int k) {
-        n = nums.size();
-        K = k;
-        dp.assign(n+1,vector<int> (k+1,-1));
+        int n = nums.size();
+        unordered_map<int,int> mp;
+        vector<vector<int>> dp(n+1,vector<int>(k+1,0));
+        vector<int> maxLen(k+1,0);
+        dp[0][0] = 1;
+        maxLen[0] = 1;
+        mp[nums[0]] = 0;
+        for(int i=1; i < n; i++) {
+        	for(int j = 0; j <= k; j++) {
+        		int case1 = 1;
+        		if(mp.find(nums[i]) != mp.end()) {
+        			case1 = 1 + dp[mp[nums[i]]][j];
+        		}
+       			int case2 = (j >= 1) ? 1 + maxLen[j-1] : 0;
+       			dp[i][j] = max(case1, case2);
+        	}
+        	for (int j = 0; j <= k; j++) {
+                maxLen[j] = max(maxLen[j], dp[i][j]);
+            }
+        	mp[nums[i]] = i;
+        }
         int ans = 0;
-        for(int i = 0; i < n; i++) {
-            ans = max(ans, solve(i,0,nums));
+        for(int i = 0; i <= k; i++) {
+        	ans = max(ans,maxLen[i]);
         }
         return ans;
     }
