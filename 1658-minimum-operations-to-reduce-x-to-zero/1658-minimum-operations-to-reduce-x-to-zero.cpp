@@ -1,29 +1,25 @@
 class Solution {
 public:
-    int maximumSizeSubarray(vector<int>& nums, long long k) {
+    int minOperations(vector<int>& nums, int x) {
     	int n = nums.size();
-    	unordered_map<long long,int> mp;
-    	mp[0] = -1;
-    	long long sum = 0;
-    	int size = -1;
-    	for(int i=0; i < n; i++) {
-    		sum += nums[i];
-    		long long needed = sum-k;
-    		if(mp.find(needed) != mp.end()) {
-    			size = max(size,i-mp[needed]);
+    	long long sum = accumulate(nums.begin(), nums.end(),0LL);
+    	if(sum < x) return -1;
+    	long long target = sum - x;
+    	if(target == 0) return n;
+    	int i = 0;
+    	long long curSum = 0;
+    	int ans = -1;
+    	for(int j = 0; j < n; j++) {
+    		curSum += nums[j];
+    		while(curSum > target && i <= j) {
+    			curSum -= nums[i];
+    			i++;
     		}
-    		if(mp.find(sum) == mp.end()) {
-    			mp[sum] = i;
+    		if(curSum == target) {
+    			ans = max(ans,j-i+1);
     		}
     	}
-    	return size;
-    }
-    int minOperations(vector<int>& nums, int x) {
-    	long long sum = accumulate(nums.begin(),nums.end(),0LL);
-    	if(sum < x) return -1;
-    	if(sum-x == 0) return nums.size();
-    	int maxSubarr = maximumSizeSubarray(nums, sum-x);
-    	if(maxSubarr == -1) return -1;
-    	return nums.size() - maximumSizeSubarray(nums,sum-x);   
+    	if(ans == -1) return -1;
+    	return n-ans;
     }
 };
