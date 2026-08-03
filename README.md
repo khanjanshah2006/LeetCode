@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/khanjanshah2006/LeetCode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2090-k-radius-subarray-averages](https://github.com/khanjanshah2006/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2140-solving-questions-with-brainpower](https://github.com/khanjanshah2006/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/khanjanshah2006/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanjanshah2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2090-k-radius-subarray-averages](https://github.com/khanjanshah2006/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [3208-alternating-groups-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
