@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/khanjanshah2006/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1049-last-stone-weight-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1125-smallest-sufficient-team](https://github.com/khanjanshah2006/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/khanjanshah2006/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/khanjanshah2006/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1049-last-stone-weight-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/khanjanshah2006/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1125-smallest-sufficient-team](https://github.com/khanjanshah2006/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
