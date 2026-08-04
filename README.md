@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/khanjanshah2006/LeetCode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/khanjanshah2006/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/khanjanshah2006/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/khanjanshah2006/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0849-maximize-distance-to-closest-person](https://github.com/khanjanshah2006/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/khanjanshah2006/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/khanjanshah2006/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0879-profitable-schemes](https://github.com/khanjanshah2006/LeetCode/tree/master/0879-profitable-schemes) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khanjanshah2006/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1268-search-suggestions-system](https://github.com/khanjanshah2006/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2233-maximum-product-after-k-increments](https://github.com/khanjanshah2006/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0731-my-calendar-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/khanjanshah2006/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/khanjanshah2006/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -656,10 +660,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
 |  |
@@ -684,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/khanjanshah2006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khanjanshah2006/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanjanshah2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
