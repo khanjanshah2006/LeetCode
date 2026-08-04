@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/khanjanshah2006/LeetCode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/khanjanshah2006/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2090-k-radius-subarray-averages](https://github.com/khanjanshah2006/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2140-solving-questions-with-brainpower](https://github.com/khanjanshah2006/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2233-maximum-product-after-k-increments](https://github.com/khanjanshah2006/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2542-maximum-subsequence-score](https://github.com/khanjanshah2006/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/khanjanshah2006/LeetCode/tree/master/2551-put-marbles-in-bags) |
