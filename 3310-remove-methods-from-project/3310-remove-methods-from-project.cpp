@@ -1,11 +1,10 @@
 class Solution {
 public:
-	void dfs(int u, vector<vector<int>>& adj, vector<bool>& visited,queue<int>& q) {
+	void dfs(int u, vector<vector<int>>& adj, vector<bool>& visited) {
 		visited[u] = true;
-		q.push(u);
 		for(auto& v: adj[u]) {
 			if(!visited[v]) {
-				dfs(v,adj,visited,q);
+				dfs(v,adj,visited);
 			}
 		}
 	}
@@ -20,13 +19,10 @@ public:
         	adj[u].push_back(v);
         	adjR[v].push_back(u);
         }
-        queue<int> q;
-        vector<int> arr(n);
-        for(int i=0; i < n; i++) arr[i] = i;
-        dfs(k,adj,visited,q);
-        while(!q.empty()) {
-        	int u = q.front();
-        	q.pop();
+        dfs(k,adj,visited);
+
+        for(int u = 0; u < n; u++) {
+            if(!visited[u]) continue;
         	for(auto& v: adjR[u]) {
         		if(!visited[v]) {
                     vector<int> arr(n);
