@@ -2,28 +2,28 @@ class Solution {
 public:
     long long totalCost(vector<int>& costs, int k, int candidates) {
         long long ans = 0;
-        int i = 0;
-        int j = costs.size()-1;
-        priority_queue<int, vector<int>, greater<int>> pq1,pq2;
-        while(k--) {
-            while(pq1.size() < candidates && i <= j) {
-                pq1.push(costs[i]);
-                i++;
-            }
-            while(pq2.size() < candidates && i <= j) {
-                pq2.push(costs[j]);
-                j--;
-            }
-            int a = pq1.empty() ? INT_MAX : pq1.top();
-            int b = pq2.empty() ? INT_MAX : pq2.top();
-            if(a <= b) {
-                ans += pq1.top();
-                pq1.pop();
-            }else {
-                ans += pq2.top();
-                pq2.pop();
-            }
-        }
-        return ans;
+       	int i = 0;
+       	int j = costs.size()-1;
+       	priority_queue<int,vector<int>,greater<int>> start,end;
+       	while(k--) {
+       		while(start.size() < candidates && i <= j) {
+       			start.push(costs[i]);
+       			i++;
+       		}
+       		while(end.size() < candidates && i <= j) {
+       			end.push(costs[j]);
+       			j--;
+       		}
+       		int a = start.empty() ? INT_MAX : start.top();
+       		int b = end.empty() ? INT_MAX :end.top();
+       		if(a <= b) {
+       			ans += a;
+       			start.pop();
+       		}else {
+       			ans += b;
+       			end.pop();
+       		}
+       	}
+       	return ans;
     }
 };
