@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+| [1834-single-threaded-cpu](https://github.com/khanjanshah2006/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/khanjanshah2006/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/khanjanshah2006/LeetCode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/khanjanshah2006/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1268-search-suggestions-system](https://github.com/khanjanshah2006/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1834-single-threaded-cpu](https://github.com/khanjanshah2006/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [2233-maximum-product-after-k-increments](https://github.com/khanjanshah2006/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2336-smallest-number-in-infinite-set](https://github.com/khanjanshah2006/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
+| [1834-single-threaded-cpu](https://github.com/khanjanshah2006/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2402-meeting-rooms-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/2402-meeting-rooms-iii) |
