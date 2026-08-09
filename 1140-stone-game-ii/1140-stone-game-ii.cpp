@@ -1,26 +1,23 @@
 class Solution {
 public:
-    vector<vector<vector<int>>> dp;
     int n;
-    int solve(int person, int m ,int i, vector<int>& piles) {
+    vector<vector<int>> dp;
+    int solve(int i,int m, vector<int>& piles) {
         if(i >= n) return 0;
-        if(dp[person][m][i] != -1) return dp[person][m][i];
-        int ans = (person == 1) ? -1 : INT_MAX;
-        int sum = 0; 
-        for(int x = 1; x <= min(2*m,n-i); x++) {
+        if(dp[i][m] != -1) return dp[i][m];
+        int ans = INT_MIN;
+        int sum = 0;
+        for(int x = 1; x <= min(2*m, n-i); x++) {
             sum += piles[i+x-1];
-            if(person == 1) {
-                ans = max(ans, sum + solve(0,max(m,x),i+x,piles));
-            }else {
-                ans = min(ans, solve(1,max(m,x),i+x,piles));
-            }
+            ans = max(ans, sum - solve(i+x,max(m,x),piles));
         }
-        return dp[person][m][i] = ans;
+        return dp[i][m] = ans;
     }
 
     int stoneGameII(vector<int>& piles) {
+        long long total = accumulate(piles.begin(),piles.end(),0);
         n = piles.size();
-        dp.assign(2,vector<vector<int>>(n+1, vector<int>(n+1,-1)));
-        return solve(1,1,0,piles);
+        dp.assign(n+1, vector<int>(n+1,-1));
+        return (total+solve(0,1,piles))/ 2;
     }
 };
