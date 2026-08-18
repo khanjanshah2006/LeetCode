@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khanjanshah2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/khanjanshah2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khanjanshah2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/khanjanshah2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
