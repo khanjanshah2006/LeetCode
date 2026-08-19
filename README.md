@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanjanshah2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1386-cinema-seat-allocation](https://github.com/khanjanshah2006/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanjanshah2006/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanjanshah2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1125-smallest-sufficient-team](https://github.com/khanjanshah2006/LeetCode/tree/master/1125-smallest-sufficient-team) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/khanjanshah2006/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1386-cinema-seat-allocation](https://github.com/khanjanshah2006/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/khanjanshah2006/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1755-closest-subsequence-sum](https://github.com/khanjanshah2006/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/khanjanshah2006/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/khanjanshah2006/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/khanjanshah2006/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/khanjanshah2006/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khanjanshah2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/khanjanshah2006/LeetCode/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanjanshah2006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/khanjanshah2006/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1386-cinema-seat-allocation](https://github.com/khanjanshah2006/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
