@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khanjanshah2006/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khanjanshah2006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/khanjanshah2006/LeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/khanjanshah2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khanjanshah2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/khanjanshah2006/LeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khanjanshah2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/khanjanshah2006/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khanjanshah2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/khanjanshah2006/LeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khanjanshah2006/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khanjanshah2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/khanjanshah2006/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/khanjanshah2006/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/khanjanshah2006/LeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Counting Sort
 |  |
 | ------- |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/khanjanshah2006/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanjanshah2006/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/khanjanshah2006/LeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -886,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/khanjanshah2006/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/khanjanshah2006/LeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Minimax
 |  |
 | ------- |
