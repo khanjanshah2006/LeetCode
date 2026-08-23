@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1416-restore-the-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khanjanshah2006/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/khanjanshah2006/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1927-sum-game](https://github.com/khanjanshah2006/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khanjanshah2006/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1922-count-good-numbers](https://github.com/khanjanshah2006/LeetCode/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/khanjanshah2006/LeetCode/tree/master/1927-sum-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/khanjanshah2006/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/khanjanshah2006/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/khanjanshah2006/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/khanjanshah2006/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khanjanshah2006/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khanjanshah2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/khanjanshah2006/LeetCode/tree/master/1927-sum-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/khanjanshah2006/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2233-maximum-product-after-k-increments](https://github.com/khanjanshah2006/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2542-maximum-subsequence-score](https://github.com/khanjanshah2006/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/khanjanshah2006/LeetCode/tree/master/1927-sum-game) |
 ## Memoization
 |  |
 | ------- |
