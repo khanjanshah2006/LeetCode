@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/khanjanshah2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/khanjanshah2006/LeetCode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/khanjanshah2006/LeetCode/tree/master/0808-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/khanjanshah2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0920-number-of-music-playlists](https://github.com/khanjanshah2006/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
@@ -919,4 +920,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/khanjanshah2006/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
