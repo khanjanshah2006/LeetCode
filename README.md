@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/khanjanshah2006/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/khanjanshah2006/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/khanjanshah2006/LeetCode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/khanjanshah2006/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/khanjanshah2006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khanjanshah2006/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1799-maximize-score-after-n-operations](https://github.com/khanjanshah2006/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/khanjanshah2006/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/khanjanshah2006/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
 | ------- |
